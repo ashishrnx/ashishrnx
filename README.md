@@ -7,7 +7,7 @@ A passionate Full Stack Developer from India 🌆
 - 🔭 I’m currently working on [MyProject](https://github.com/yourproject)
 - 🌱 I’m learning **Rust** and **System Design**
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**
-- 📫 How to reach me: [alex@example.com](mailto:alex@example.com)
+- 📫 How to reach me: [ashishranjan9904@gmail](mailto:alex@example.com)
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
