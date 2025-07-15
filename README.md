@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashh!
 ![Profile Views](https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat)
 
-A passionate Full Stack Developer from New York 🌆
+A passionate Full Stack Developer from India 🌆
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [MyProject](https://github.com/yourproject)
