@@ -99,7 +99,7 @@ currently_learning:
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Current Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm working on 
 
 - 🔭 I'm currently working on **AI-Powered Task Management System**
 - 🌱 I'm currently learning **Rust and Web3 Development**
