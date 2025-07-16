@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **AI Agents & Automation Tools**  
 - 🌱 I’m learning **LLMs, LangChain, and AWS Cloud**  
 - 💬 Ask me about **AI, Python, Web Dev, or Open Source**  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 Reach me at **ashishranjan9904@gmail.com**
 - ⚡ Fun fact: I love building tools that save time!
 
 ---
