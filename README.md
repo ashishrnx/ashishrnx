@@ -189,4 +189,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 **Thanks for visiting! 😊**
 
 </div>
-
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
