@@ -75,18 +75,6 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,php,express,django,fastapi,spring,graphql,prisma,mongodb,postgresql&theme=dark&perline=7" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" /> Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github,gitlab,vercel,netlify,heroku,firebase,supabase&theme=dark&perline=7" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="25" /> Mobile & More
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,reactnative,unity,blender,ai,ps,pr,ae,xd,linux,vim&theme=dark&perline=7" />
-</p>
-
 </div>
 
 <!-- Animated Divider -->
