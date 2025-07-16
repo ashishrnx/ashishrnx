@@ -99,15 +99,6 @@ currently_learning:
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight)](https://github.com/yourusername/awesome-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight)](https://github.com/yourusername/awesome-project-2)
-
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Current Projects
 
 - 🔭 I'm currently working on **AI-Powered Task Management System**
