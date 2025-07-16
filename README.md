@@ -63,13 +63,13 @@ currently_learning:
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Frontend Mastery
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Language Mastery
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,javascript,html,css,tailwind,sass,bootstrap,figma,threejs&theme=dark&perline=7" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Backend Power
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Technologies/Framework
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,php,express,django,fastapi,spring,graphql,prisma,mongodb,postgresql&theme=dark&perline=7" />
