@@ -1,22 +1,30 @@
-# 👋 Hi, I'm Ashh!
-![Profile Views](https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat)
+# Hi there 👋, I'm Ashish Ranjan
+### 👨‍💻 Software Developer | AI Enthusiast | Tech Explorer
 
-A passionate Full Stack Developer from India 🌆
+- 🔭 I’m currently working on **AI Agents & Web Automation**
+- 🌱 I’m learning **LLMs, Cloud (AWS), and Advanced Python**
+- 💬 Ask me about **AI, Web Development, and Open Source**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile)
+- ⚡ Fun fact: I write clean code and love debugging!
 
-## 🚀 About Me
-- 🔭 I’m currently working on [MyProject](https://github.com/yourproject)
-- 🌱 I’m learning **Rust** and **System Design**
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**
-- 📫 How to reach me: [ashishranjan9904@gmail](mailto:alex@example.com)
+---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-...
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishranjan&show_icons=true&theme=radical" alt="stats" />
+</p>
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+### 📌 Featured Projects
+- 💡 [AI Blog Agent](https://github.com/ashishranjan/ai-blog-agent) – Multi-agent blog writer powered by OpenAI
+- 📊 [Market Research Excel Tool](https://github.com/ashishranjan/market-excel-tool)
+
