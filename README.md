@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast | Full Stack Developer | LLM Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ashishranjan" />
+  <img src="https://komarev.com/ghpvc/?username=ashishrnx&label=Profile%20views&color=0e75b6&style=flat" alt="ashishranjan" />
 </p>
 
 - 🔭 I’m currently working on **AI Agents & Automation Tools**  
