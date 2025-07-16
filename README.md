@@ -118,13 +118,6 @@ currently_learning:
 - 📫 How to reach me: **alex.johnson@email.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect With Me
 
