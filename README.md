@@ -45,6 +45,14 @@
 
 ---
 
+### 🔝 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrnx&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+---
+
 ### 🧩 Featured Projects
 
 - 🔥 [AI Blog Agent](https://github.com/ashishranjan/ai-blog-agent) – Automates blog writing using multi-agent LLM architecture.
