@@ -122,15 +122,6 @@ currently_learning:
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with Node.js and TypeScript](https://yourblog.com/scalable-apis)
-- [React Performance Optimization Techniques](https://yourblog.com/react-performance)
-- [Getting Started with Docker for Developers](https://yourblog.com/docker-guide)
-- [Understanding Database Indexing](https://yourblog.com/database-indexing)
-<!-- BLOG-POST-LIST:END -->
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Fun Zone
 
 <div align="center">
