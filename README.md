@@ -17,9 +17,9 @@
 
 <!-- Profile Views Counter with Animation -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ashishrnx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ashishrnx?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ashishrnx?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
 </div>
 
 <!-- Animated Divider -->
