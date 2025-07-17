@@ -29,7 +29,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-```python
+\`\`\`python
 profile = {
     "name": "Ashish Ranjan",
     "located_in": "New Delhi, India",
@@ -56,7 +56,7 @@ profile = {
         "Vector Databases (e.g., Pinecone, Weaviate)"
     ]
 }
-```
+\`\`\`
 
 <!-- Animated Skills Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -65,16 +65,28 @@ profile = {
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Language Mastery
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,r,mysql&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,r,mysql&theme=dark&perline=9" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Technologies/Framework
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Technologies & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,php,express,django,fastapi,spring,graphql,prisma,mongodb,postgresql&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,django,fastapi,spring,graphql,prisma,mongodb,postgresql,docker,kubernetes&theme=dark&perline=7" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="25" /> Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,git,github&theme=dark&perline=9" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="25" /> AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
 </p>
 
 </div>
@@ -101,14 +113,13 @@ profile = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm working on 
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm Working On
 
 - 🔭 I'm currently working on **AI-Powered Translation System**
-- 🌱 I'm currently learning **LLMs and NLP **
+- 🌱 I'm currently learning **LLMs and NLP**
 - 💬 Ask me about **React, Node.js, Python, and System Design**
 - 📫 How to reach me: **ashishranjan9904@gmail.com**
-- ⚡ Fun fact: **I am a debuger and shoiln !**
-
+- ⚡ Fun fact: **I am a debugger and problem solver!**
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -116,11 +127,9 @@ profile = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-
-```text
+\`\`\`text
 No activity tracked
-```
-
+\`\`\`
 <!--END_SECTION:waka-->
 
 <!-- Animated Divider -->
@@ -166,53 +175,62 @@ No activity tracked
 
 </div>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect With Me
 
-<p align="center">
+<div align="center">
 
+### 🌐 Let's Connect and Build Something Amazing Together!
+
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishrnx/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn" />
   </a>
-  &nbsp;
-  
   <!-- Twitter -->
   <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="50" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  &nbsp;
-
   <!-- Instagram -->
   <a href="https://www.instagram.com/ashishrnx/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" height="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
-
   <!-- Email -->
-  <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="50" />
+  <a href="mailto:ashishranjan9904@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-
   <!-- Discord -->
   <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="50" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;
-
   <!-- GitHub -->
   <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub" height="50" style="background-color:#333; border-radius:50%;" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-
   <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-icon-for-your-website-mobile-and-logo-design-color-tal-revivo.png" alt="Portfolio" height="50" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/ashishrnx" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/ashishrnx" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
+### 📊 Social Media Stats
+
+<p align="center">
+  <img src="https://img.shields.io/twitter/follow/ashishrnx?style=social" alt="Twitter Follow" />
+  <img src="https://img.shields.io/github/followers/ashishrnx?style=social" alt="GitHub Followers" />
+</p>
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -226,13 +244,24 @@ No activity tracked
 
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="30" /> Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/ashishrnx/ashishrnx/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <div align="center">
 
 ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Thanks for visiting! 😊**
+**Thanks for visiting! 😊 Let's build the future together! 🚀**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" />
 
 </div>
+
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
