@@ -196,7 +196,9 @@ No activity tracked
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="25" /> Thanks for visiting! Let's build something amazing together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="25" />
+### 🎉 Thanks for visiting! Let's build something amazing together! 🎉
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD&center=true&vCenter=true&width=600&lines=Happy+Coding!+💻;Keep+Learning!+📚;Stay+Awesome!+⭐;Build+The+Future!+🚀" alt="Footer Typing SVG" />
 
 </div>
 <!-- Animated Footer -->
