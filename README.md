@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=✨+FULL+STACK+DEVELOPER+✨;🚀+AI+%26+&+%26+ML+ENTHUSIAST+🚀;💫+TURNING+IDEAS+INTO+REALITY+💫" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=✨+FULL+STACK+DEVELOPER+✨;🚀+AI+ML+ENTHUSIAST+🚀;💫+TURNING+IDEAS+INTO+REALITY+💫" alt="Typing SVG" />
 
 </div>
 
