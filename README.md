@@ -126,9 +126,6 @@ currently_learning:
 
 <div align="center">
 
-### 🐍 Watch the Snake eat my contributions!
-![Snake animation](https://github.com/ashishrnx/ashishrnx/blob/output/github-contribution-grid-snake.svg)
-
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
