@@ -16,11 +16,7 @@
 </div>
 
 <!-- Profile Views Counter with Animation -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishrnx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ashishrnx?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ashishrnx?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
-</div>
+![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
