@@ -29,30 +29,33 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-```yaml
-name: Ashish Ranjan
-located_in: New Delhi, India
-current_job: Full Stack Developer
-education: 
-  - "Computer Science, Birla Institute of Technology, Mesra"
-company: "Wipro Private Limited"
-
-fields_of_interests:
-  - "AI & Machine Learning"
-  - "MLOps"
-  - "Cloud Computing"
-  - "Web Development"
-
-technical_background:
-  - "AI & Machine Learning Development"
-  - "MLOps & Model Deployment"
-  - "Cloud Integration"
-  - "Full Stack Development"
-
-currently_learning:
-  - "LangChain Ecosystem (LangChain, LangGraph, LangSmith)"
-  - "LLM Fine-Tuning"
-  - "Vector Databases (e.g., Pinecone, Weaviate)"
+```python
+profile = {
+    "name": "Ashish Ranjan",
+    "located_in": "New Delhi, India",
+    "current_job": "Full Stack Developer",
+    "education": [
+        "Computer Science, Birla Institute of Technology, Mesra"
+    ],
+    "company": "Wipro Private Limited",
+    "fields_of_interests": [
+        "AI & Machine Learning",
+        "MLOps",
+        "Cloud Computing",
+        "Web Development"
+    ],
+    "technical_background": [
+        "AI & Machine Learning Development",
+        "MLOps & Model Deployment",
+        "Cloud Integration",
+        "Full Stack Development"
+    ],
+    "currently_learning": [
+        "LangChain Ecosystem (LangChain, LangGraph, LangSmith)",
+        "LLM Fine-Tuning",
+        "Vector Databases (e.g., Pinecone, Weaviate)"
+    ]
+}
 ```
 
 <!-- Animated Skills Section -->
