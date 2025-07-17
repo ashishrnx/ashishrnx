@@ -133,26 +133,6 @@ profile = {
 <!--WakaTime stats will automatically appear here-->
 <!--END_SECTION:waka-->
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Fun Zone
-
-<div align="center">
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-TypeScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
-CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
-```
-<!--END_SECTION:waka-->
-
-### 🎵 Currently Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ashishrnx)
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
