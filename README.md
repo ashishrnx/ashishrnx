@@ -170,34 +170,48 @@ No activity tracked
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/ashishrnx">
-    <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" height="50" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ashishrnx/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/ashishrnx">
-    <img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" height="50" alt="Twitter" />
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/ashishrnx" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="50" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/ashishrnx">
-    <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" height="50" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:alex.johnson@email.com">
-    <img src="https://user-images.githubusercontent.com/46517096/166975528-b8bfa6eb-9582-4d45-a9d4-4267f1b0c0fc.png" height="50" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/ashishrnx">
-    <img src="https://user-images.githubusercontent.com/46517096/166975616-c7d53e9e-2fc5-4e76-9d20-cfb51f03ec94.png" height="50" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://yourportfolio.com">
-    <img src="https://user-images.githubusercontent.com/46517096/166975825-453f06c6-f6d2-4b07-8a5f-b68f1b9e97be.png" height="50" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/yourchannel">
-    <img src="https://user-images.githubusercontent.com/46517096/166976000-846c6e4e-5cbb-4207-ae30-52c64753461b.png" height="50" alt="YouTube" />
-</p>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ashishrnx/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" height="50" />
+  </a>
+  &nbsp;
+
+  <!-- Email -->
+  <a href="mailto:alex.johnson@email.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="50" />
+  </a>
+  &nbsp;
+
+  <!-- Discord -->
+  <a href="https://discord.gg/ashishrnx" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="50" />
+  </a>
+  &nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/ashishrnx" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub" height="50" style="background-color:#333; border-radius:50%;" />
+  </a>
+  &nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-icon-for-your-website-mobile-and-logo-design-color-tal-revivo.png" alt="Portfolio" height="50" />
+  </a>
+
+</p>
 
 
 <div align="center">
