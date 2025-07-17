@@ -105,13 +105,28 @@ profile = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm working on 
+<table align="center">
+<tr>
+<td width="50%">
 
-- 🔭 I'm currently working on **AI-Powered Translation System**
-- 🌱 I'm currently learning **LLMs and NLP **
-- 💬 Ask me about **React, Node.js, Python, and System Design**
-- 📫 How to reach me: **ashishranjan9904@gmail.com**
-- ⚡ Fun fact: **I am a debuger and shoiln !**
+### 🔭 What I'm Working On
+- 🚀 **AI-Powered Web Apps** - Building intelligent applications
+- 🌐 **Microservices Architecture** - Scalable system design  
+- 📱 **Mobile Development** - Cross-platform solutions
+- 🤖 **Machine Learning Models** - Predictive analytics
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+- 🧠 **Advanced AI/ML** - Deep learning frameworks
+- ☁️ **Cloud Native** - Kubernetes & serverless
+- 🔐 **Cybersecurity** - Ethical hacking & security
+- 🎨 **3D Development** - Three.js & WebGL
+
+</td>
+</tr>
+</table>
 
 
 <!-- Animated Divider -->
