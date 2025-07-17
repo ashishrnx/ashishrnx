@@ -105,6 +105,12 @@ profile = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20,24,25,30&height=150&section=header&text=🎯%20Current%20Focus&fontSize=50&fontColor=fff&animation=twinkling" />
+
+</div>
+
 <table align="center">
 <tr>
 <td width="50%">
