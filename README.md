@@ -66,7 +66,7 @@ currently_learning:
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Language Mastery
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,go,r,sql&theme=dark&perline=7" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Technologies/Framework
