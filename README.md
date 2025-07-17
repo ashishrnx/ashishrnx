@@ -90,8 +90,8 @@ profile = {
   
 <!-- Stats Cards with Custom Colors -->
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&text_color=ffffff&langs_count=10&custom_title=💻%20Most%20Used%20Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ashishrnx&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrnx&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&text_color=ffffff&langs_count=10&custom_title=💻%20Most%20Used%20Languages" />
 </div>
   
   <!-- GitHub Streak -->
