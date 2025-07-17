@@ -38,22 +38,21 @@ education:
 company: "Tech Innovations Inc"
 
 fields_of_interests:
-  - "Web Development"
-  - "Machine Learning"
+  - "AI & Machine Learning"
+  - "MLOps"
   - "Cloud Computing"
-  - "Mobile Development"
-  - "DevOps"
-  
+  - "Web Development"
+
 technical_background:
+  - "AI & Machine Learning Development"
+  - "MLOps & Model Deployment"
+  - "Cloud Integration"
   - "Full Stack Development"
-  - "System Design"
-  - "Database Architecture"
-  - "API Development"
-  
-currently_learning: 
-  - "Rust"
-  - "Web3"
-  - "Kubernetes"
+
+currently_learning:
+  - "LangChain Ecosystem (LangChain, LangGraph, LangSmith)"
+  - "LLM Fine-Tuning"
+  - "Vector Databases (e.g., Pinecone, Weaviate)"
 ```
 
 <!-- Animated Skills Section -->
