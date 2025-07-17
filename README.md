@@ -168,33 +168,36 @@ No activity tracked
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect With Me
 
-<div align="center">
+<p align="center">
 
-  <a href="https://linkedin.com/in/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/ashishrnx">
+    <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" height="50" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
+  <a href="https://twitter.com/ashishrnx">
+    <img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" height="50" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color: #333333; border-radius: 10px;"/>
+  <a href="https://www.instagram.com/ashishrnx">
+    <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" height="50" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+  <a href="mailto:alex.johnson@email.com">
+    <img src="https://user-images.githubusercontent.com/46517096/166975528-b8bfa6eb-9582-4d45-a9d4-4267f1b0c0fc.png" height="50" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
+  <a href="https://discord.gg/ashishrnx">
+    <img src="https://user-images.githubusercontent.com/46517096/166975616-c7d53e9e-2fc5-4e76-9d20-cfb51f03ec94.png" height="50" alt="Discord" />
   </a>
   &nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
+  <a href="https://yourportfolio.com">
+    <img src="https://user-images.githubusercontent.com/46517096/166975825-453f06c6-f6d2-4b07-8a5f-b68f1b9e97be.png" height="50" alt="Website" />
   </a>
+  &nbsp;
+  <a href="https://youtube.com/yourchannel">
+    <img src="https://user-images.githubusercontent.com/46517096/166976000-846c6e4e-5cbb-4207-ae30-52c64753461b.png" height="50" alt="YouTube" />
+</p>
 
-</div>
 
 
 <div align="center">
