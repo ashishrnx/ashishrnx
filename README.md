@@ -202,10 +202,6 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)
-
 **Thanks for visiting! 😊**
 
 </div>
