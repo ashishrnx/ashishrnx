@@ -96,7 +96,7 @@ profile = {
   
 <!-- Streak Stats with Rainbow Theme -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=4ecdc4&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=default&hide_border=true&background=0f3460&stroke=4ecdc4&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
 </div>
   
 <!-- Activity Graph with Gradient -->
