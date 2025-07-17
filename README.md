@@ -172,13 +172,32 @@ No activity tracked
 
 <div align="center">
 
-[![LinkedIn](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png)](https://linkedin.com/in/ashishrnx)
-[![Twitter](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bird.png)](https://twitter.com/ashishrnx)
-[![Portfolio](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png)](https://yourportfolio.com)
-[![Email](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png)](mailto:alex.johnson@email.com)
-[![Discord](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png)](https://discord.gg/ashishrnx)
+  <a href="https://linkedin.com/in/ashishrnx" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ashishrnx" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ashishrnx" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:alex.johnson@email.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/ashishrnx" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-icon-for-your-website-mobile-and-logo-design-color-tal-revivo.png" width="40" alt="Portfolio"/>
+  </a>
 
 </div>
+
 
 
 <div align="center">
