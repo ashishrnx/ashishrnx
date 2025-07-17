@@ -103,13 +103,11 @@ profile = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm working on 
 
-- 🔭 I'm currently working on **AI-Powered Task Management System**
-- 🌱 I'm currently learning **Rust and Web3 Development**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Machine Learning Optimization**
+- 🔭 I'm currently working on **AI-Powered Translation System**
+- 🌱 I'm currently learning **LLMs and NLP **
 - 💬 Ask me about **React, Node.js, Python, and System Design**
-- 📫 How to reach me: **alex.johnson@email.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- 📫 How to reach me: **ashishranjan9904@gmail.com**
+- ⚡ Fun fact: **I am a debuger and shoiln !**
 
 
 <!-- Animated Divider -->
