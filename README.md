@@ -94,11 +94,11 @@ profile = {
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrnx&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&text_color=ffffff&langs_count=10&custom_title=💻%20Most%20Used%20Languages" />
 </div>
   
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" />
+<!-- Streak Stats with Rainbow Theme -->
+<img src="https://streak-stats.demolab.com/?user=yourusername&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrnx&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&theme=react-dark" />
+<!-- Activity Graph with Gradient -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=🎯%20Contribution%20Activity&bg_color=0D1117&color=4ecdc4&line=ff6b6b&point=ffffff&area_color=ff6b6b&area=true&hide_border=true&theme=synthwave" />
 
 </div>
 
