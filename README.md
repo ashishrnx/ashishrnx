@@ -145,8 +145,7 @@ profile = {
 # Stats That May or May Not Impress You (Worth a Peek!)
 <h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@ashishrnx">WakaTime➚</a></h3>
 
-Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/ashishrnx.svg)](https://wakatime.com/@ashishrnx)
-
+Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/c42d6646-813e-4ed2-a011-5576b3272e28.svg)](https://wakatime.com/@c42d6646-813e-4ed2-a011-5576b3272e28)
 <br>
 
 <!--START_SECTION:waka-->
