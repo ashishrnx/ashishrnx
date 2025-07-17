@@ -173,32 +173,30 @@ No activity tracked
 <div align="center">
 
   <a href="https://linkedin.com/in/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" style="filter: brightness(1.5);" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" width="40" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" alt="Twitter" style="filter: brightness(1.5);" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub" style="filter: brightness(1.5);" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-mail.png" width="40" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" alt="Gmail" style="filter: brightness(1.5);" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/discord-logo.png" width="40" alt="Discord"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" alt="Discord" style="filter: brightness(1.5);" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40" alt="Portfolio"/>
+    <img src="https://img.icons8.com/color/48/domain.png" width="40" alt="Portfolio" />
   </a>
 
 </div>
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
