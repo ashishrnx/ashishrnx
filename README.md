@@ -88,9 +88,11 @@ profile = {
 
 <div align="center">
   
-  <!-- GitHub Stats Cards -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ashishrnx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrnx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+<!-- Stats Cards with Custom Colors -->
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=ff6b6b&text_color=ffffff&langs_count=10&custom_title=💻%20Most%20Used%20Languages" />
+</div>
   
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" />
