@@ -77,6 +77,12 @@ profile = {
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,php,express,django,fastapi,spring,graphql,prisma,mongodb,postgresql&theme=dark&perline=7" />
 </p>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="25" /> Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,git,github&theme=dark&perline=9" />
+</p>
+
 </div>
 
 <!-- Animated Divider -->
