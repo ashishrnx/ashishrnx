@@ -134,31 +134,6 @@ No activity tracked
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> Achievements & Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="20" /> Cloud Certifications</h3>
-        <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Google%20Cloud%20Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Azure%20Developer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-      </td>
-      <td width="33%">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" /> Security & DevOps</h3>
-        <img src="https://img.shields.io/badge/Certified%20Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Docker%20Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-      </td>
-      <td width="33%">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" /> AI & Data Science</h3>
-        <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
