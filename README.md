@@ -173,8 +173,6 @@ No activity tracked
 
 <div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="25" /> Thanks for visiting! Let's build something amazing together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="25" />
 
 </div>
