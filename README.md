@@ -35,7 +35,7 @@ located_in: New Delhi, India
 current_job: Full Stack Developer
 education: 
   - "Computer Science, Birla Institute of Technology, Mesra"
-company: "Tech Innovations Inc"
+company: "Wipro Private Limited"
 
 fields_of_interests:
   - "AI & Machine Learning"
