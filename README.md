@@ -95,7 +95,9 @@ profile = {
 </div>
   
 <!-- Streak Stats with Rainbow Theme -->
-<img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashishrnx&theme=synthwave&hide_border=true&background=0D1117,1a1a2e,16213e,0f3460&stroke=4ecdc4&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
+</div>
   
 <!-- Activity Graph with Gradient -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrnx&custom_title=🎯%20Contribution%20Activity&bg_color=0D1117&color=4ecdc4&line=ff6b6b&point=ffffff&area_color=ff6b6b&area=true&hide_border=true&theme=synthwave" />
