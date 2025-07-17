@@ -173,27 +173,27 @@ No activity tracked
 <div align="center">
 
   <a href="https://linkedin.com/in/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" width="40" alt="Twitter"/>
   </a>
   &nbsp;
   <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-mail.png" width="40" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" alt="Discord"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/discord-logo.png" width="40" alt="Discord"/>
   </a>
   &nbsp;
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-icon-for-your-website-mobile-and-logo-design-color-tal-revivo.png" width="40" alt="Portfolio"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40" alt="Portfolio"/>
   </a>
 
 </div>
