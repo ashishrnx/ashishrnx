@@ -115,6 +115,13 @@ profile = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@ashishrnx">WakaTime➚</a></h3>
+
+Total time coded since Jan 2, 2024: &nbsp; [![wakatime](https://wakatime.com/badge/user/018cc9b3-bdfa-4ef4-a679-8bc20c997551.svg)](https://wakatime.com/@018cc9b3-bdfa-4ef4-a679-8bc20c997551)
+
+
+<br>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
