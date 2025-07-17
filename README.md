@@ -189,10 +189,11 @@ No activity tracked
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> Random Dev Quote
 
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20world%20of%20algorithms,%20be%20the%20human%20touch%20that%20makes%20technology%20meaningful.%20%E2%9C%A8&author=Ashish%20Ranjan)
 
 </div>
+
 
 <div align="center">
 
