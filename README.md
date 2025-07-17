@@ -142,9 +142,12 @@ profile = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Activity (Last 7 Days)
 
+# Stats That May or May Not Impress You (Worth a Peek!)
 <h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@ashishrnx">WakaTime➚</a></h3>
 
 Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/ashishrnx.svg)](https://wakatime.com/@ashishrnx)
+
+<br>
 
 <!--START_SECTION:waka-->
 
