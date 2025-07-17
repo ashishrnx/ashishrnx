@@ -130,7 +130,11 @@ profile = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-<!--WakaTime stats will automatically appear here-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- Animated Divider -->
