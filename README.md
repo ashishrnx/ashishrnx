@@ -173,30 +173,31 @@ No activity tracked
 <div align="center">
 
   <a href="https://linkedin.com/in/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" style="filter: brightness(1.5);" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" alt="Twitter" style="filter: brightness(1.5);" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub" style="filter: brightness(1.5);" />
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color: #333333; border-radius: 10px;"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" alt="Gmail" style="filter: brightness(1.5);" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" alt="Discord" style="filter: brightness(1.5);" />
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" width="40" alt="Portfolio" />
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
   </a>
 
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
