@@ -175,48 +175,42 @@ No activity tracked
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect With Me
 
 <p align="center">
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishrnx/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn" />
   </a>
-  &nbsp;
-  
   <!-- Twitter -->
   <a href="https://twitter.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="50" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  &nbsp;
-
   <!-- Instagram -->
   <a href="https://www.instagram.com/ashishrnx/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" height="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
-
   <!-- Email -->
-  <a href="mailto:alex.johnson@email.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="50" />
+  <a href="mailto:ashishranjan9904@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-
   <!-- Discord -->
   <a href="https://discord.gg/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="50" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;
-
   <!-- GitHub -->
   <a href="https://github.com/ashishrnx" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub" height="50" style="background-color:#333; border-radius:50%;" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-
   <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-icon-for-your-website-mobile-and-logo-design-color-tal-revivo.png" alt="Portfolio" height="50" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/ashishrnx" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/ashishrnx" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 
