@@ -140,12 +140,12 @@ profile = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Activity (Last 7 Days)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Time/Hourglass%20Done.png" width="25" /> My Coding Tracker (Past 7 Days)
 
-# Stats That May or May Not Impress You (Worth a Peek!)
-<h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@ashishrnx">WakaTime➚</a></h3>
+Some Dev Stats You Might Find Interesting 👀
 
-Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/c42d6646-813e-4ed2-a011-5576b3272e28.svg)](https://wakatime.com/@c42d6646-813e-4ed2-a011-5576b3272e28)
+<h3>Want a closer look? Dive into the full breakdown on <a href="https://wakatime.com/@ashishrnx">my WakaTime profile➚</a></h3>
+Coding time logged since July 17, 2025:   &nbsp; [![wakatime](https://wakatime.com/badge/user/c42d6646-813e-4ed2-a011-5576b3272e28.svg)](https://wakatime.com/@c42d6646-813e-4ed2-a011-5576b3272e28)
 <br>
 
 <!--START_SECTION:waka-->
