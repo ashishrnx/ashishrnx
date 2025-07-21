@@ -145,7 +145,9 @@ profile = {
 Some Dev Stats You Might Find Interesting 👀
 
 <h3>Want a closer look? Dive into the full breakdown on <a href="https://wakatime.com/@ashishrnx">my WakaTime profile➚</a></h3>
-Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/c42d6646-813e-4ed2-a011-5576b3272e28.svg)](https://wakatime.com/@c42d6646-813e-4ed2-a011-5576b3272e28)
+Total time coded since July 17, 2025: &nbsp; [![wakatime](https://wakatime.com/badge/user/018cc9b3-bdfa-4ef4-a679-8bc20c997551.svg)](https://wakatime.com/@018cc9b3-bdfa-4ef4-a679-8bc20c997551)
+
+
 <br>
 
 <!--START_SECTION:waka-->
