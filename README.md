@@ -153,11 +153,7 @@ Total time coded since July 17, 2025: &nbsp;
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 mins         ███████████████████████░░   92.64 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
