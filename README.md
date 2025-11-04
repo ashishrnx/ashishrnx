@@ -153,8 +153,7 @@ Total time coded since July 17, 2025: &nbsp;
 <!--START_SECTION:waka-->
 
 ```text
-Python   14 mins         ████████████████▒░░░░░░░░   64.90 %
-HTML     7 mins          ████████▓░░░░░░░░░░░░░░░░   35.10 %
+HTML   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
